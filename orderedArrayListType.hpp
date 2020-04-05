@@ -1,7 +1,7 @@
-#ifndef H_orderedArrayListType
-#define H_orderedArrayListType
+#ifndef ORDEREDARRAYLISTTYPE_HPP
+#define ORDEREDARRAYLISTTYPE_HPP
  
-#include "arrayListType.h"  
+#include "arrayListType.hpp"  
  
 class orderedArrayListType: public arrayListType
 {

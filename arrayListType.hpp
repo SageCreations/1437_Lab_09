@@ -1,5 +1,5 @@
-#ifndef H_arrayListType
-#define H_arrayListType
+#ifndef ARRAYLISTTYPE_HPP
+#define ARRAYLISTTYPE_HPP
 
 class arrayListType {
  public:

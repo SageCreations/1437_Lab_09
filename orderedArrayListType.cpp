@@ -1,8 +1,28 @@
 #include <iostream>
-#include "orderedArrayListType.h"
+#include "orderedArrayListType.hpp"
 
 using namespace std;  
  
+void orderedArrayListType::insertAt(int location, int insertItem)
+{
+    
+} //end insertAt
+
+void orderedArrayListType::insertEnd(int insertItem)
+{
+
+} //end insertEnd
+
+void orderedArrayListType::replaceAt(int location, int repItem)
+{
+
+} //end replaceAt
+
+int orderedArrayListType::seqSearch(int searchItem) const
+{
+
+} //end seqSearch
+
 void orderedArrayListType::insert(int insertItem)
 {
     if (length == 0)          //list is empty
@@ -34,6 +54,12 @@ void orderedArrayListType::insert(int insertItem)
         length++;   //increment the length
     }
 } //end insert
+
+void orderedArrayListType::remove(int removeItem)
+{
+
+} //end remove
+
 
 
   //Write the definitions of the remaining functions. See Programming
