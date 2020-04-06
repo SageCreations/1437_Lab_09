@@ -1,5 +1,5 @@
 #include <iostream>
-#include "arrayListType.h"
+#include "arrayListType.hpp"
 
 using namespace std;
 
